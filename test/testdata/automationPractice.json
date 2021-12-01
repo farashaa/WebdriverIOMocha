@@ -1,0 +1,21 @@
+{
+    "name": {
+        "firstName": "abc",
+        "lastName": "def"
+    },
+    "DateOfBirth": {
+        "day": "4",
+        "month": "May",
+        "year": "2016"
+    },
+    "company": "xyz",
+    "address": {
+        "address1": "1st line",
+        "city": "city",
+        "state": "Kansas",
+        "country": "United States",
+        "postalCode": "11111"
+    },
+    "mobNumber": "123456789",
+    "aliasAdd": "My address"
+}
